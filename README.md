@@ -1,15 +1,10 @@
 # Linux Journey
 
-[Linux Journey](https://linuxjourney.com) is a site dedicated to making learning Linux fun and easy.
+[Linux Journey](https://linuxjourney.com) Linux öğrenmeyi kolay ve eğlenceli kılmayı hedefleyen bir sitedir.
 
-## Project Hiatus
+## Proje Aralığı
+Ana proje birtakım problemlerden dolayı sekteye uğradı. Bu nedenle çeviriyi proje sahibinin dediği gibi buraya geçirmeye karar verdim. 
 
-Due to the overwhelming support for translations, Linux Journey is in the middle of a site overhaul to make it more scalable for translations. Unfortunately, I am a full time professional and full time student so it has taken longer to do the migration than I had hoped. For now, any additional translations/edits/additions will not be added to the site. I'll try my best to finish adding everything that was already committed and will re-visit the project when I have more cycles. Thank you for understanding.
+## Kullanım
 
-## Language Support
-
-If you would like to see Linux Journey in your local language, please help us translate. You can fork our repo and add your translations in the respective locales folder.
-
-## Usage
-
-Linux Journey was created to document the single journey I took to learn Linux, which is far from over. But, everyone's journey is a little different. We can further improve the knowledge of the greater Linux community through contribution and collaboration. Thusly, the text content of Linux Journey has been made free to modify and distribute. For full license terms see: [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). This license does not include the images, site design and source code which is subject to All Rights Reserved. 
+Linux Journey, bitmemiş olmaktan çok uzak olan Linux'u öğrenmek için yaptığım tek yolculuğu belgelemek için oluşturuldu. Ancak herkesin yolculuğu biraz farklıdır. Katkı ve işbirliği yoluyla daha büyük Linux topluluğunun bilgilerini daha da geliştirebiliriz. Böylece, Linux Journey'in metin içeriği değiştirilmeye ve dağıtılmaya serbest hale getirildi. Tam lisans koşulları için bkz: [Creative Commons Attribution-ShareAlike 4.0 International License] (http://creativecommons.org/licenses/by-sa/4.0/). Bu lisans, Tüm Hakları Saklıdır görseller, site tasarımı ve kaynak kodunu içermez.
