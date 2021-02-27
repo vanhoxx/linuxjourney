@@ -1,4 +1,5 @@
-# Linux Journey
+# Linux Journey ![image](https://user-images.githubusercontent.com/64434358/109382048-1765da80-78ef-11eb-9426-85a3fabb5583.png)
+
 
 [Linux Journey](https://linuxjourney.com) Linux öğrenmeyi kolay ve eğlenceli kılmayı hedefleyen bir sitedir.
 
