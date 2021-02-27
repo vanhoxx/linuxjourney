@@ -2,13 +2,13 @@
 
 ## Çekirge
 
-* Başlarken - Linux Nedir? Bir dağıtım ve kurulum seçerek başlayalım.
+* Başlarken - Linux Nedir? Bir dağıtımı seçip kurulumunu yaparak başlayalım.
 
 * Komut Satırı - Komut satırının temellerini, dosya/dizinlerde gezinmeyi ve daha fazlasını öğrenin.
 
-* Text-Fu - Temel metin manipülasyonu ve navigasyonunu öğrenin.
+* Text-Fu - Metin işlemenin temelleri ve navigasyonunu öğrenin.
 
-* İleri Text-Fu - Metinlerde vim ve emacs ile linux örümcek maymunu gibi gezinin.
+* İleri Text-Fu - Metinlerde vim ve emacs ile Linux örümcek maymunu gibi gezinin.
 
 * Kullanıcı Yönetimi - Kullanıcı rolleri ve yönetimi hakkında bilgi edinin.
 
@@ -20,7 +20,7 @@
 
 ## Usta
 
-* Cihazlar - Linux cihazlar ve çekirdek-kullanıcı alanı arasındaki etkileşim hakkında bilgi edinin.
+* Cihazlar - Cihazlar ve çekirdek kullanıcı alanı arasındaki etkileşim hakkında bilgi edinin.
 
 * Dosya Sistemi - Linux dosya sistemleri, farklı tipteki dosya sistemleri, bölümleme ve daha fazlası hakkında bilgi edinin.
 
